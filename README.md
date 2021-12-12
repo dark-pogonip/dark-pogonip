@@ -1,2 +1,2 @@
-一名骄傲的中国人
-自学编程，欢迎交流学习
+非正式的介绍
+Informal introduction
